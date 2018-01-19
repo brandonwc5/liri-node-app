@@ -1,0 +1,29 @@
+{
+  "name": "jsonpackage",
+  "version": "2.0.0",
+  "description": "project",
+  "main": "liri.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brandonwc5/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Brandon Cowart",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/brandonwc5/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/brandonwc5/liri-node-app#readme"
+}
